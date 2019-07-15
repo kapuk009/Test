@@ -6,4 +6,8 @@ public class A {
 		System.out.println("Edit First");
 	}
 	
+	public void editSecond() {
+		System.out.println("Edit Second");
+	}
+	
 }
